@@ -10,7 +10,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.8.2,<3.14"
+python = ">=3.8.2,<3.15"
 chardet = "^5.2.0"
 cssselect = [
     { version = "~1.2", markers = "python_version < '3.9'" },
